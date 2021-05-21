@@ -1,0 +1,18 @@
+.para-style{
+	color: #C70039;
+	font-size: 3rem;
+	font-weight: bold;
+	font-style: italic;
+}
+.heading-style{
+	color:#7CDE52 ;
+	font-size: 3rem;
+}
+.myButton1{
+	color: #fff;
+	font-size: 1rem;
+	font-weight: bold;
+	font-style: italic;
+	background-color: #080275;
+	margin: 10px;
+}
